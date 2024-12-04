@@ -1,0 +1,6 @@
+.active {
+  border: 2px solid green;
+  border-radius: 5px;
+  padding: 8px;
+  color: #ec4899;
+}
